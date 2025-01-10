@@ -14,7 +14,7 @@
 - <b>Языки программирования:</b> Swift
 - <b>Фреймворки:</b> SwiftUI, UIKit, Kingfisher, ProgressHUD, SwiftkeychainWrapper
 - <b>Архитектура:</b> MVVM, MVC, MVP
-- <b>Базы данных:</b> <b>Realm</b>, Core Data, Swift Data, SQL
+- <b>Базы данных:</b> <b>Realm</b>, Core Data, Swift Data
 - <b>Сеть и клиент-серверное взаимодействие:</b> RESTful API, WebSocket, URLSession, JSON, Async Await
 - <b>Инструменты:</b> Xcode, Postman, Fork, Figma, Trello
 - <b>Дополнительно:</b> Основы многопоточности, CoreAnimation
